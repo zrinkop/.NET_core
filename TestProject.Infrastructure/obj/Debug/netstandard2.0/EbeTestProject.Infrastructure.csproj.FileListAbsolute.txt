@@ -1,9 +1,0 @@
-C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Infrastructure\bin\Debug\netstandard2.0\EbeTestProject.Infrastructure.deps.json
-C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Infrastructure\bin\Debug\netstandard2.0\EbeTestProject.Infrastructure.dll
-C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Infrastructure\obj\Debug\netstandard2.0\EbeTestProject.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Infrastructure\obj\Debug\netstandard2.0\EbeTestProject.Infrastructure.AssemblyInfoInputs.cache
-C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Infrastructure\obj\Debug\netstandard2.0\EbeTestProject.Infrastructure.AssemblyInfo.cs
-C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Infrastructure\obj\Debug\netstandard2.0\EbeTestProject.Infrastructure.csprojAssemblyReference.cache
-C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Infrastructure\bin\Debug\netstandard2.0\EbeTestProject.Infrastructure.pdb
-C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Infrastructure\obj\Debug\netstandard2.0\EbeTestProject.Infrastructure.dll
-C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Infrastructure\obj\Debug\netstandard2.0\EbeTestProject.Infrastructure.pdb
