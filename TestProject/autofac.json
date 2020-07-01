@@ -1,0 +1,65 @@
+﻿{
+  "components": [
+    {
+      "type": "TestProject.Domain.CatalogService, TestProject.Domain",
+      "services": [
+        {
+          "type": "TestProject.Contracts.Services.ICatalogService, TestProject.Contracts"
+        }
+      ],
+      "autoActivate": true,
+      "instanceScope": "per-lifetime-scope"
+    },
+    {
+      "type": "TestProject.Infrastructure.Repository.CatalogRepository, TestProject.Infrastructure",
+      "services": [
+        {
+          "type": "TestProject.Contracts.Repository.ICatalogRepository, TestProject.Contracts"
+        }
+      ],
+      "autoActivate": true,
+      "instanceScope": "per-lifetime-scope"
+    },
+    {
+      "type": "TestProject.Domain.ProductService, TestProject.Domain",
+      "services": [
+        {
+          "type": "TestProject.Contracts.Services.IProductService, TestProject.Contracts"
+        }
+      ],
+      "autoActivate": true,
+      "instanceScope": "per-lifetime-scope"
+    },
+    {
+      "type": "TestProject.Infrastructure.Repository.ProductRepository, TestProject.Infrastructure",
+      "services": [
+        {
+          "type": "TestProject.Contracts.Repository.IProductRepository, TestProject.Contracts"
+        }
+      ],
+      "autoActivate": true,
+      "instanceScope": "per-lifetime-scope"
+    },
+    {
+      "type": "TestProject.Domain.CatalogItemsService, TestProject.Domain",
+      "services": [
+        {
+          "type": "TestProject.Contracts.Services.ICatalogItemsService, TestProject.Contracts"
+        }
+      ],
+      "autoActivate": true,
+      "instanceScope": "per-lifetime-scope"
+    },
+    {
+      "type": "TestProject.Infrastructure.Repository.CatalogItemsRepository, TestProject.Infrastructure",
+      "services": [
+        {
+          "type": "TestProject.Contracts.Repository.ICatalogItemsRepository, TestProject.Contracts"
+        }
+      ],
+      "autoActivate": true,
+      "instanceScope": "per-lifetime-scope"
+    }
+
+  ]
+}

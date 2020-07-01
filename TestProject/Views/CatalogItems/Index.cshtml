@@ -1,0 +1,47 @@
+﻿@model IEnumerable<TestProject.Contracts.Entities.Product>
+
+@{
+    ViewData["Title"] = "Catalog items";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    IEnumerable<TestProject.Contracts.Entities.Product> selected = ViewBag.Selected;
+
+}
+
+<h2>Products on: @ViewBag.CatalogName</h2>
+
+<form asp-controller="CatalogItems"
+      asp-action="Edit"
+      asp-route-catalogId="@ViewBag.CatalogId"
+      method="post">
+
+    <table class="table">
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @if (selected.SingleOrDefault(e => e.Id == item.Id) != null)
+                        {
+                            <input type="checkbox" name="Items" value="@item.Id" checked />
+                        }
+                        else
+                        {
+                            <input type="checkbox" name="Items" value="@item.Id" />
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+
+    <p>
+        <button class="btn btn-default" value="Edit" type="submit">Update catalog</button>
+    </p>
+
+</form>

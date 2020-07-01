@@ -1,0 +1,9 @@
+C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Contracts\bin\Debug\netstandard2.0\EbeTestProject.Contracts.deps.json
+C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Contracts\bin\Debug\netstandard2.0\EbeTestProject.Contracts.dll
+C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Contracts\bin\Debug\netstandard2.0\EbeTestProject.Contracts.pdb
+C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Contracts\obj\Debug\netstandard2.0\EbeTestProject.Contracts.csprojAssemblyReference.cache
+C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Contracts\obj\Debug\netstandard2.0\EbeTestProject.Contracts.csproj.CoreCompileInputs.cache
+C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Contracts\obj\Debug\netstandard2.0\EbeTestProject.Contracts.AssemblyInfoInputs.cache
+C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Contracts\obj\Debug\netstandard2.0\EbeTestProject.Contracts.AssemblyInfo.cs
+C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Contracts\obj\Debug\netstandard2.0\EbeTestProject.Contracts.dll
+C:\Repos\NewCandidateTest\EbeTestProject\EbeTestProject.Contracts\obj\Debug\netstandard2.0\EbeTestProject.Contracts.pdb
